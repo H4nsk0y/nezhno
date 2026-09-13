@@ -1,0 +1,5 @@
+[functions.care-api]
+verify_jwt = false
+
+[functions.care-reminders]
+verify_jwt = false
